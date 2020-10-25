@@ -1,0 +1,2 @@
+# golf
+Go logfile search
